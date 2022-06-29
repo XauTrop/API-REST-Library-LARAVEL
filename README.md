@@ -7,4 +7,4 @@ This simple example using LARAVEL framework implements a the operations of creat
 
 The different operatives have been tested using reqbin.com.
 
-The DB credits go for D. Alcolea.
+The DB credits go for @dalcolea
