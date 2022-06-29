@@ -1,4 +1,4 @@
-# API-REST-Posts-LARAVEL
+# API-REST-Library-LARAVEL
 API REST for a CRUD in a library database using LARAVEL
 
 <h2>CRUD to a books table using API REST</h2>
